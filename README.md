@@ -39,7 +39,7 @@ ___
         * `textPosition:` let you choose your prefered text position. You can choose either `.top` or `.bottom`
         * `textColor:` let you set your prefered color for your text
     * <u>Show your custom view in HUD</u>
-        * `view:`let you lpass your view object 
+        * `view:`let you pass your view object 
     
     
     
